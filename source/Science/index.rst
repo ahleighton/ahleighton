@@ -13,7 +13,7 @@ Science
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
         <div class="card text-center intro-card">
             <img src="../_static/images/thesis.png">
-            <div class="card-body flex-fill">
+            <div class="card-body flex-fill border-light">
                 <h5 class="card-title">PhD Thesis</h5>
             </div>
             <p class = "card-text"> PhD at the Netherlands Institute for Neuroscience with Christiaan Levelt and Pieter Roelfsema
