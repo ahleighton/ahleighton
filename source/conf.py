@@ -25,12 +25,6 @@ project = "A.H.Leighton"
 copyright = "2022-{}, Alexandra Leighton".format(datetime.now(timezone.utc).year)
 author = "Alexandra Leighton"
 
-# The short X.Y version
-version = "0.0"
-# The full version, including alpha/beta/rc tags
-release = "0.0.0"
-
-
 # -- General configuration ---------------------------------------------------
 
 # If your documentation needs a minimal Sphinx version, state it here.
@@ -77,7 +71,6 @@ todo_include_todos = True
 # a list of builtin themes.
 #
 html_theme = "pydata_sphinx_theme"
-html_logo = "_static/images/harp.png"
 html_scaled_image_link = True
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -104,7 +97,6 @@ html_js_files = [
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "harp_docs"
 
 # -- Options for LaTeX output ------------------------------------------------
 
